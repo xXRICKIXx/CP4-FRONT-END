@@ -1,0 +1,7 @@
+.bg-image {
+    background-image: url('c:\Users\ricki\Downloads\Image.jpg'); /* Substitua pelo link da sua imagem */
+    background-size: cover; /* Faz a imagem cobrir todo o elemento */
+    background-position: center; /* Centraliza a imagem */
+    color: white; /* Cor do texto */
+    padding: 50px 0; /* Espaçamento interno */
+ }
